@@ -1,2 +1,6 @@
+
 3rd stash file
+
+=======
+2nd stash file
 
